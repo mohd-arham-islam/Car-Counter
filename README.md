@@ -47,7 +47,7 @@ Prepare your video footage by placing it in the data directory.
 **Run the car counting system using the following command:**
 
 ```
-python car_counter.py
+python CarCount.py
 ```
 
 ## Results
