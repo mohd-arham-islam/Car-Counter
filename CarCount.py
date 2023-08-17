@@ -9,7 +9,7 @@ cap.set(3, 640) # Width
 cap.set(4, 480) # Height
 
 
-model = YOLO('Weights/yolov8m.pt')
+model = YOLO('Weights/yolov8n.pt')
 
 # Tracking Instance
 # max_age -> What is the limit of the number of frames that an object is gone and we still recognize it within that region.
