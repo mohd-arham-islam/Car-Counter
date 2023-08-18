@@ -41,9 +41,6 @@ https://github.com/mohd-arham-islam/Car-Counter.git
 pip install -r requirements.txt
 ```
 
-**Usage**
-Prepare your video footage by placing it in the data directory.
-
 **Run the car counting system using the following command:**
 
 ```
